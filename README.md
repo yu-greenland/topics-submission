@@ -8,7 +8,7 @@ The ```adjust_xx.py``` programs do not need a virtual environment or any install
 
 If you want to use ```main.py``` and ```conduct_anaysis.py``` you will have to create a virtual environment and install all the libraries listed in ```requirements.txt```.
 
-If you want a clean install and not use the venv packaged go:
+To create a virtual environment and download all the requirements go:
 
 ```bash
 python3 -m venv venv
