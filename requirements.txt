@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+PyPDF2
+scipy
+seaborn
+sklearn
+mdutils
+weasyprint
+markdown
+fpdf
